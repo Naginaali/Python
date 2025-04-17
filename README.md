@@ -61,6 +61,7 @@ o	Setting the index column
 •	Reading JSON
 •	Reading from Excel files
 •	Writing to Excel files
-![image](https://github.com/user-attachments/assets/0f33564c-83ea-40a3-a18d-973087d49964)
+
+
 
 
